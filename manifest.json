@@ -1,7 +1,7 @@
 {
   "name": "Google Meet Attendance",
   "version": "0.0.1",
-  "manifest_version": 1,
+  "manifest_version": 2,
   "description": "Save the time joined and left of all attendees with one click!",
   "homepage_url": "https://github.com/bajajvinamr/Click2attendance",
   "icons": {
