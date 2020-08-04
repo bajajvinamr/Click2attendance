@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 1,
   "description": "Save the time joined and left of all attendees with one click!",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/bajajvinamr/Click2attendance",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
